@@ -1,0 +1,26 @@
+package ferreteriavecino;
+
+public class Proveedor {
+    
+    public static void main(String[] args) {
+    
+        System.out.println("Pedido Proveedores");
+        
+            String nombre = "Proveedor 1";
+            String direccion = "Valle 324";
+            String telefono = "20222578";
+            String productos = "Martillos";
+            int total = 100;
+            
+                System.out.println("Nombre: " + nombre);
+                System.out.println("Calle: " + direccion);
+                System.out.println("Numero: " + telefono);
+                System.out.println("Id: " + productos);
+                System.out.println("catidad: " + total);
+                
+                
+    
+    
+    } 
+    
+}
